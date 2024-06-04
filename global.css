@@ -1,0 +1,55 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-libre-baskerville: "Libre Baskerville";
+  --font-licorice: Licorice;
+  --font-roboto: Roboto;
+  --font-noto-serif-jp: "Noto Serif JP";
+  --font-luxurious-roman: "Luxurious Roman";
+  --font-manrope: Manrope;
+  --font-lexend: Lexend;
+
+  /* font sizes */
+  --font-size-11xl: 30px;
+  --font-size-lg: 18px;
+  --font-size-5xl: 24px;
+  --font-size-sm: 14px;
+  --font-size-xl: 20px;
+  --font-size-base: 16px;
+  --font-size-10xl: 29px;
+  --font-size-29xl: 48px;
+  --font-size-19xl: 38px;
+  --font-size-lgi: 19px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-black: #000;
+  --color-dimgray: #4b5563;
+  --color-gray-100: #171a1f;
+  --color-gainsboro: #ddd;
+
+  /* Gaps */
+  --gap-base: 16px;
+  --gap-xl: 20px;
+
+  /* Paddings */
+  --padding-lgi: 19px;
+  --padding-8xl: 27px;
+  --padding-11xs: 2px;
+  --padding-xl: 20px;
+  --padding-4xl: 23px;
+  --padding-16xl: 35px;
+  --padding-13xl: 32px;
+  --padding-8xs: 5px;
+  --padding-65xl: 84px;
+  --padding-36xl: 55px;
+  --padding-2xs: 11px;
+
+  /* Border radiuses */
+  --br-5xs: 8px;
+  --br-9xs: 4px;
+}
